@@ -1,2 +1,3 @@
 print ("This is versioning practice.....")
-print ("chalo apni is power ko linkin per post karia..")
+print ("conflict resolved.")
+print ("we will not post it on linkin")
